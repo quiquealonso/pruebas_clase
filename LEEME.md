@@ -23,7 +23,7 @@ Esto va a ser una lista
 
 el codigo así
 
-´´´python
+```python
 
 ## codigo en python
 print("hola mundo")
