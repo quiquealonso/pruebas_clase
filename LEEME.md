@@ -1,32 +1,41 @@
-#hola
+# hola
 esto es un fichero de prueba com md
 
-#esto es de segundo nibel
+# esto es de segundo nibel
 
 comentario en segundo nivel
 
-#esto es de tercer nivel
+# esto es de tercer nivel
 
 Comentario en tercer nibel, ademas en **negrita** o en *cursiva* o en ***negrita y cursiva***
 
 
-##listas
+## listas
 
-ahora lista
-
+Ahora lista: 
+Esto va a ser una lista
 -item 1
 -ietm 2
  -item2.1
  -item 2.2
 
-##codigo
+## codigo
 
 el codigo así
 
 ´´´python
 
-#codigo en python
+## codigo en python
 print("hola mundo")
+
+
+## tabla
+| cod | Descripción |
+|---- | ----------- |
+| 1 | git |
+| 2 | docker | 
+| 3 | odoo |
+
 
 
 
