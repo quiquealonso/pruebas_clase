@@ -14,10 +14,14 @@ Comentario en tercer nibel, ademas en **negrita** o en *cursiva* o en ***negrita
 
 Ahora lista: 
 Esto va a ser una lista
--item 1
--ietm 2
- -item2.1
- -item 2.2
+
+- item 1
+- item 2
+ - item2.1
+ - item 2.2
+-item 3
+-item 4
+
 
 ## codigo
 
