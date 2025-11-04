@@ -27,7 +27,7 @@ el codigo así
 
 ## codigo en python
 print("hola mundo")
-
+```
 
 ## tabla
 | cod | Descripción |
