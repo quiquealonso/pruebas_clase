@@ -29,12 +29,16 @@ el codigo así
 print("hola mundo")
 ```
 
+tambien pueder formatear una `palabra` o `grupo de palabras solas`
 ## tabla
 | cod | Descripción |
 |---- | ----------- |
 | 1 | git |
 | 2 | docker | 
 | 3 | odoo |
+
+
+t
 
 
 
